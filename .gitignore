@@ -2,3 +2,5 @@
 .python-version
 MNIST/
 lightning_logs/
+data/*
+tb_logs/*
